@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppIdatgram</string>
+    <string name="valetUsuario">Ingrese su usuario</string>
+    <string name="valbtnLogin">Ingresar</string>
+    <string name="valopconfig">Configuración</string>
+    <string name="valopcamara">Cámara</string>
+    <string name="valbtnCompartir">Compartir</string>
+</resources>
